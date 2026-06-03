@@ -1,0 +1,27 @@
+{
+  "release": "v1.0.0",
+  "baseUrl": "https://github.com/serjooga/SolutioDigital-Games/releases/download/v1.0.0",
+  "files": [
+    { "file": "cosmic-cleaning-crew.apk", "title": "Cosmic Cleaning Crew" },
+    { "file": "creature-survivor.apk", "slug": "creature-survivor", "title": "Creature Survivor" },
+    { "file": "cybertale.apk", "slug": "cybertale", "title": "CyberTale" },
+    { "file": "drowning-city.apk", "slug": "drowning-city", "title": "Drowning City" },
+    { "file": "FarmNer.apk", "slug": "farmner", "title": "FarmNer" },
+    { "file": "color-flux.apk", "slug": "color-flux", "title": "Color Flux" },
+    { "file": "final_quest.apk", "title": "Final Quest" },
+    { "file": "gladiate.apk", "title": "Gladiate" },
+    { "file": "haunt_or_be_haunted.apk", "title": "Haunt or Be Haunted" },
+    { "file": "hunt_the_wumpus.apk", "title": "Hunt the Wumpus" },
+    { "file": "libre_train_sim.apk", "title": "Libre Train Sim" },
+    { "file": "meteorite.apk", "title": "Meteorite" },
+    { "file": "nebula-drift.apk", "slug": "nebula-drift", "title": "Nebula Drift" },
+    { "file": "open_jrpg.apk", "title": "Open JRPG" },
+    { "file": "PixelAssaultDesertBreak.apk", "title": "Pixel Assault Desert Break" },
+    { "file": "project_zero.apk", "title": "Project Zero" },
+    { "file": "rota.apk", "title": "Rota" },
+    { "file": "sourceofmana.apk", "title": "Source of Mana" },
+    { "file": "tiny_tactics.apk", "title": "Tiny Tactics" },
+    { "file": "titan_tactics.apk", "title": "Titan Tactics" },
+    { "file": "youtd2.apk", "title": "YouTD2" }
+  ]
+}
